@@ -6,7 +6,7 @@
 - ⚡ In my free time, I solve problems on LeetCode and Codechef.
   
 <h3 align="left">Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/chetan-chauhan-860106258/">
+  <a href="https://www.linkedin.com/in/chetan3327/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/chetan3327/">
@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=python,cpp,js" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,expressjs,mongo,mysql,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,expressjs,mongo,mysql,react,nextjs,prisma" />
 </a>
 </p>
 </div>
