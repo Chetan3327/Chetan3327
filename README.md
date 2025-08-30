@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Developer | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=chetanchauhan&theme=github_dark&force_username=true&border_color=404040" height="325"/>
-  <img src="https://leetcard.jacoblin.cool/chetan3327?theme=dark&font=Ubuntu&ext=heatmap" height="300"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=chetanchauhan&theme=github_dark&force_username=true&border_color=404040" height="280"/>
+  <img src="https://leetcard.jacoblin.cool/chetan3327?theme=dark&font=Ubuntu&ext=heatmap" height="280"/>
 </p>
 
 <p align="center">
